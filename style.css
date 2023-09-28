@@ -1,0 +1,30 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.justify-centre{
+    justify-content: center;
+}
+.text-centre{
+    text-align: center;
+}
+
+button{
+    padding: 15px   20px;
+    font-size: 1.5rem;
+    color: #fff;
+    border: 1px solid #723700;
+    background-color: #723700;
+}
+
+#choice{
+    color: #222222;
+    font-size: 1.5rem;
+}
+#result{
+    font-size: 2rem;
+}
+#message{
+    font-size: 0.5;
+    color: #a8a8a8;
+}
