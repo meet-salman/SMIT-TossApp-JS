@@ -10,11 +10,20 @@ body{
 }
 
 button{
+    width: 150px;
+    margin: 0px 5px;
     padding: 15px   20px;
     font-size: 1.5rem;
     color: #fff;
     border: 1px solid #723700;
     background-color: #723700;
+}
+
+#coin-image{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    width: 200px;
+    height: 200px;
 }
 
 #choice{
