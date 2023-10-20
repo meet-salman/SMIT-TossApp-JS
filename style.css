@@ -9,6 +9,20 @@ body{
     text-align: center;
 }
 
+h1{
+    margin-top: 50px;
+}
+
+#coin{
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+#coin-image{
+    width: 200px;
+    height: 200px;
+}
+
 button{
     width: 150px;
     margin: 0px 5px;
@@ -20,21 +34,10 @@ button{
     background-color: #723700;
 }
 
-#coin-image{
-    margin-top: 50px;
-    margin-bottom: 50px;
-    width: 200px;
-    height: 200px;
-}
-
 #choice{
     color: #222222;
     font-size: 1.5rem;
 }
 #result{
     font-size: 2rem;
-}
-#message{
-    font-size: 0.5;
-    color: #a8a8a8;
 }
